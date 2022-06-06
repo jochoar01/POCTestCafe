@@ -1,0 +1,27 @@
+{
+  "name": "poctestcafe",
+  "version": "1.0.0",
+  "description": "Prueba de concepto de testCafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jochoar01/POCtestCafe.git"
+  },
+  "keywords": [
+    "TestCafe",
+    "Testing",
+    "Automation"
+  ],
+  "author": "Juan Ochoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jochoar01/POCtestCafe/issues"
+  },
+  "homepage": "https://github.com/jochoar01/POCtestCafe#readme",
+  "dependencies": {
+    "testcafe": "^1.19.0"
+  }
+}
